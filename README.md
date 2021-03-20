@@ -27,6 +27,6 @@ The combined dataset has the same format, but has a features in content:
 1. Excluded all features that occur only once, except for those that have all upper-case letters (these are mostly permissions)
 2. Vectors of malicious and benign apps are randomly distributed
 
-The script for datasets combining is located in [dataset_concat.py](dataset_concat.py)
+The script for datasets combining is located in [../../dataset_concat.py](dataset_concat.py)
 
 **Work done with the support of SPbPU, Cybersecurity and Protection of Information Institute**
