@@ -29,4 +29,4 @@ The combined dataset has the same format, but has a features in content:
 
 The script for datasets combining is located in [datasets_combine.py](datasets_combine.py)
 
-**Work done with the support of SPbPU, Cybersecurity and Protection of Information Institute**
+**Work was done with the support of SPbPU, Cybersecurity and Protection of Information Institute**
